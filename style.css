@@ -1,0 +1,57 @@
+iframe
+{
+    width: 100%;
+    float: left;
+    padding-top: 5px;
+    margin-bottom: 30px;
+}
+.container{
+    text-align: center;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+
+input
+{
+    background: grey
+}
+
+.my_nav_bar{
+    position: sticky;
+    top: 0;
+    z-index: 99999;
+}
+#photo{
+    width: 100%;
+    
+}
+#achievementsID{
+    padding-bottom: 10px;
+   }
+   
+   .movie_head
+   {
+       font-size: 20px;
+       padding: 6px 22px;
+       border-radius: 10px;
+       margin-bottom: 15px;
+       width: 100%;
+       display: inline-block;
+   }
+   
+   .movie_head i
+   {
+   float: right;
+   }
+   
+   .movie_text span
+   {
+   color: #ff7700;
+   }
+   
